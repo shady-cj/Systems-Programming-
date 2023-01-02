@@ -1,1 +1,1 @@
-Writing and practice system programmes in C
+Writing and practice system programming in C
